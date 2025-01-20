@@ -4,7 +4,7 @@ import React from "react";
 const Header = () => {
   return (
     <div className="my-container flex gap-6 items-center">
-      <h2 className="text-2xl font-semibold">A.Sojib</h2>
+      <Link href="/" className="text-2xl font-semibold">A.Sojib</Link>
 
       <div className="flex justify-between w-full items-center">
         <ul className="flex gap-4">

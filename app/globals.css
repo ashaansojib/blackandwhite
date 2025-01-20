@@ -27,3 +27,8 @@ body {
 .nav-link{
   @apply  hover:text-blue-600
 }
+
+/* footer */
+.footer-links{
+  @apply hover:text-blue-600 text-gray-600
+}
