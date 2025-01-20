@@ -11,7 +11,7 @@ const Note: React.FC<{ item: item }> = ({ item }) => {
   return (
     <Link href="/" className="inline-block">
       <h3 className="font-semibold text-">{title}</h3>
-      <p className="text-slate-600">{desc}</p>
+      <p className="text-secondary">{desc}</p>
     </Link>
   );
 };

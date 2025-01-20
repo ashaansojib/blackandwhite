@@ -40,7 +40,7 @@ const Footer = () => {
           <FaWhatsapp />
         </Link>
       </ul>
-      <span className="text-gray-600">
+      <span className="text-secondary">
         @ 2025 Developer Sojib. All rights reserved.
       </span>
     </div>

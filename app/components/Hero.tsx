@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="grid justify-between gap-20 items-center grid-cols-3">
       <div className="col-span-2">
         <h2 className="text-2xl font-semibold mb-4">Hey, I'm Ashaduzzaman</h2>
-        <p className="text-gray-600">
+        <p className="text-secondary">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure saepe
           aliquam soluta, officiis at cupiditate eveniet dolorum. Consequatur,
           illum. Sapiente ab nam fuga repellat perferendis amet facere, ad

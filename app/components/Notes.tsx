@@ -38,7 +38,7 @@ const HomeNotes = () => {
           <Note key={item.id} item={item} />
         ))}
       </div>
-      <Link href="/notes" className="border-b border-blue-600 my-6 inline-block">
+      <Link href="/notes" className="border-b border-primary my-6 inline-block">
         View All
       </Link>
     </>

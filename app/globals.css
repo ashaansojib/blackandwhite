@@ -25,13 +25,13 @@ body {
 }
 /* header */
 .nav-link{
-  @apply  hover:text-blue-600
+  @apply  hover:text-primary font-semibold
 }
 
 /* footer */
 .footer-links{
-  @apply hover:text-blue-600 text-gray-600
+  @apply hover:text-primary text-secondary font-semibold
 }
 .social-icon{
-  @apply p-1 hover:bg-blue-600 hover:text-white rounded-md
+  @apply p-1 hover:bg-primary hover:text-white rounded-md
 }
