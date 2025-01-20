@@ -12,22 +12,22 @@ const HomeNotes = () => {
     {
       id: 1,
       title: "How to complate an imagination!",
-      desc: "Sapiente ab nam fuga repellat perferendis amet facere, ad eveniet expedita?",
+      desc: "Sapiente ab nam fuga repellat perferendis amet facere, ad eveniet ita? nsectetur adipisicing elit. Iure saepealiquam soluta, officiis at cupiditate eveniet",
     },
     {
       id: 2,
       title: "Why? do you want to run NPM Dev!",
-      desc: "Sapiente ab nam fuga repellat perferendis amet facere, ad eveniet expedita?",
+      desc: "Sapiente ab nam fuga repellat perferendis amet facere, ad eveniet expedita? nsectetur adipisicing elit. Iure saepealiquam soluta, officiis at cupiditate eveniet",
     },
     {
       id: 3,
       title: "What is the main topic of the laser!",
-      desc: "Sapiente ab nam fuga repellat perferendis amet facere, ad eveniet expedita?",
+      desc: "Sapiente ab nam fuga repellat perferendis amet facere, ad eveniet expedita? ita? nsectetur adipisicing elit. Iure saepealiquam soluta, officiis at cupiditate eveniet",
     },
     {
       id: 4,
       title: "How to unlock oppo a52!",
-      desc: "Sapiente ab nam fuga repellat perferendis amet facere, ad eveniet expedita?",
+      desc: "Sapiente ab nam fuga repellat perferendis amet facere, ita? nsectetur adipisicing elit. Iure saepealiquam soluta, officiis at cupiditate eveniet",
     },
   ];
   return (
@@ -38,7 +38,7 @@ const HomeNotes = () => {
           <Note key={item.id} item={item} />
         ))}
       </div>
-      <Link href="/notes" className="underline text-blue-600 py-6 block">
+      <Link href="/notes" className="border-b border-blue-600 my-6 inline-block">
         View All
       </Link>
     </>
