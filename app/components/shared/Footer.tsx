@@ -5,7 +5,7 @@ import { FaFacebookF, FaGithub, FaTwitter, FaWhatsapp } from "react-icons/fa6";
 
 const Footer = () => {
   return (
-    <div className="my-container text-center">
+    <div className="my-container text-center py-6">
       <div className="flex justify-between items-center max-w-screen-sm mx-auto py-6">
         <Link className="footer-links" href="/">
           Work With Me

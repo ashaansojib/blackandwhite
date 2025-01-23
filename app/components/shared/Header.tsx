@@ -3,7 +3,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="my-container flex gap-6 items-center">
+    <div className="my-container flex gap-6 items-center py-6">
       <Link href="/" className="text-2xl font-semibold">AS.</Link>
 
       <div className="flex justify-between w-full items-center">
