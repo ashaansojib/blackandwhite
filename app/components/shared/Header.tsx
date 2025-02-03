@@ -36,7 +36,7 @@ const Header = () => {
           </svg>
 
           <Link href="/" className="px-4 py-1 border rounded-md">
-            Sign In
+            Get Resume
           </Link>
         </span>
       </div>
